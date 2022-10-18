@@ -18,5 +18,22 @@
     <ClCompile Include="memory.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="scoped_ptr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="shared_ptr1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="shared_ptr2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="weak_ptr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="memory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
