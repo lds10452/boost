@@ -146,7 +146,11 @@
     <ClInclude Include="mathTest.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="crc.cpp" />
+    <ClCompile Include="integer.cpp" />
     <ClCompile Include="math.cpp" />
+    <ClCompile Include="math_const.cpp" />
+    <ClCompile Include="random.cpp" />
     <ClCompile Include="ratio.cpp" />
     <ClCompile Include="rational.cpp" />
   </ItemGroup>

@@ -29,5 +29,17 @@
     <ClCompile Include="ratio.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="math_const.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="integer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="random.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="crc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

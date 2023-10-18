@@ -3,7 +3,11 @@
 int main()
 {
 	//rationalTest();
-	ratioTest();
+	//ratioTest();
+	//math_const();
+	//integerTest();
+	//randomTest();
+	crcTest();
 	system("pause");
 	return 0;
 }
